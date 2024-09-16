@@ -1,0 +1,12 @@
+{
+  "name": "B2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "npm": "^10.8.3"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}

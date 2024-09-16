@@ -1,0 +1,96 @@
+{
+  "OSTYPE": "Windows_NT",
+  "Platform": "win32",
+  "RAM": 8241074176,
+  "USEDRAM": 7454638080,
+  "CPU": [
+    {
+      "model": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",
+      "speed": 2419,
+      "times": {
+        "user": 1067859,
+        "nice": 0,
+        "sys": 853953,
+        "idle": 15855484,
+        "irq": 119937
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",
+      "speed": 2419,
+      "times": {
+        "user": 345593,
+        "nice": 0,
+        "sys": 187343,
+        "idle": 17244234,
+        "irq": 4062
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",
+      "speed": 2419,
+      "times": {
+        "user": 525609,
+        "nice": 0,
+        "sys": 341234,
+        "idle": 16910328,
+        "irq": 7406
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",
+      "speed": 2419,
+      "times": {
+        "user": 417125,
+        "nice": 0,
+        "sys": 225781,
+        "idle": 17134265,
+        "irq": 2906
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",
+      "speed": 2419,
+      "times": {
+        "user": 266625,
+        "nice": 0,
+        "sys": 194468,
+        "idle": 17316078,
+        "irq": 3671
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",
+      "speed": 2419,
+      "times": {
+        "user": 246921,
+        "nice": 0,
+        "sys": 149390,
+        "idle": 17380859,
+        "irq": 2859
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",
+      "speed": 2419,
+      "times": {
+        "user": 273640,
+        "nice": 0,
+        "sys": 167203,
+        "idle": 17336328,
+        "irq": 2703
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",
+      "speed": 2419,
+      "times": {
+        "user": 278562,
+        "nice": 0,
+        "sys": 150187,
+        "idle": 17348421,
+        "irq": 1953
+      }
+    }
+  ]
+}
